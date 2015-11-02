@@ -1,1 +1,1 @@
-# minecraft_user.report
+# 마인크래프트 유저 신고 처리 홈페이지
